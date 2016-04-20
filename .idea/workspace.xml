@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="684563be-2e44-4ee9-a0de-5824e27409c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/ask_ok.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/parrot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/unchangeable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4/cheeseshop.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pythontutorial27.iws" />
@@ -79,11 +77,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parrot.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="parrot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch4/parrot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="378">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cheeseshop.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch4/cheeseshop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -150,6 +158,7 @@
         <option value="$PROJECT_DIR$/ch4/ask_ok.py" />
         <option value="$PROJECT_DIR$/ch4/unchangeable.py" />
         <option value="$PROJECT_DIR$/ch4/parrot.py" />
+        <option value="$PROJECT_DIR$/ch4/cheeseshop.py" />
       </list>
     </option>
   </component>
@@ -499,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1461118950925</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="关键词参数参数默认值">
+      <created>1461134284841</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1461134284841</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -542,7 +558,8 @@
     <MESSAGE value="test add" />
     <MESSAGE value="range" />
     <MESSAGE value="fib" />
-    <option name="LAST_COMMIT_MESSAGE" value="fib" />
+    <MESSAGE value="关键词参数参数默认值" />
+    <option name="LAST_COMMIT_MESSAGE" value="关键词参数参数默认值" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -714,8 +731,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch4/parrot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch4/cheeseshop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           <folding />
         </state>
       </provider>
