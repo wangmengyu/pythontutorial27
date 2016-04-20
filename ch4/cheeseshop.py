@@ -5,7 +5,7 @@
 def cheeseshop(kind, *arguments, **keywords):
     """分别输出 字符串，展开的元祖，展开的字典"""
     print "-- Do you have any", kind, "?"
-    print "-- I'msorry, we're all out of", kind
+    print "-- I'm sorry, we're all out of", kind
     for arg in arguments:
         print arg
     keys = sorted(keywords.keys())
