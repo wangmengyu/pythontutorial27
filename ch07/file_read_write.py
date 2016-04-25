@@ -27,10 +27,7 @@ f = open(fname, 'a+') # 追加方式写入
 #f.write(string) 方法将写入内容到文件，返回None：
 print f.write('#This is a test\n')
 
-
-
-
-
-
-
-
+#将其他非字符串内容写入，先要转成字符串
+value = ('the answer', 42)
+s = str(value)
+f.write(s)
